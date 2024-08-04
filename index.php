@@ -1,4 +1,4 @@
 <?php
-echo "<strong>BUCETAO</strong>";
+echo "<strong>HI</strong>";
 ?>
 
